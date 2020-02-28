@@ -3,9 +3,9 @@
 ## Índice
 
 
-* Configurando `sentinel`
-* Probando `sentinel`
-* Administración de `sentinel`
+* Configurando Sentinel
+* Probando Sentinel
+* Administración de Sentinel
 
 ## Visualización
 
