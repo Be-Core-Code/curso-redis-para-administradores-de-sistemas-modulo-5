@@ -6,6 +6,7 @@
 * [Configurando Sentinel](/#setting_up_sentinel)
 * [Probando Sentinel](/#testing_sentinel)
 * [Administración de Sentinel](/#administrating_sentinel)
+* [Comandos y opciones de configuración](/#commands_and_configuration_options)
 
 notes:
 
