@@ -3,6 +3,10 @@
 ## Índice
 
 
+* Configurando `sentinel`
+* Probando `sentinel`
+* Administración de `sentinel`
+
 ## Visualización
 
 Para ver las diapositivas:
