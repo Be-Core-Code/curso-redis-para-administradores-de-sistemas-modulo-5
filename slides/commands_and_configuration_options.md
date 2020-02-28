@@ -1,7 +1,9 @@
 ### Comandos utilizados en este módulo
 
 * [`INFO`](https://redis.io/commands/info)
+* [`SHUTDOWN`](https://redis.io/commands/shutdown)
 * [`SUBSCRIBE`](https://redis.io/commands/subscribe)
+* `SENTINEL FAILOVER`
 
 ^^^^^^
 
