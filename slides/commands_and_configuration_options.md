@@ -4,6 +4,10 @@
 * [`SHUTDOWN`](https://redis.io/commands/shutdown)
 * [`SUBSCRIBE`](https://redis.io/commands/subscribe)
 * `SENTINEL FAILOVER`
+* `SENTINEL GET-MASTER-ADDR-BY-NAME`
+* `SENTINEL MASTERS`
+* `SENTINEL SLAVES`
+* `SENTINEL SET`
 
 ^^^^^^
 
