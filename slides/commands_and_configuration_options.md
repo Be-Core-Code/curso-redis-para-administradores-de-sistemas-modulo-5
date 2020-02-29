@@ -27,6 +27,8 @@
 * `sentinel parallel-syncs` 
 * `sentinel known-sentinel`
 * `sentinel known-replica`
+* `sentinel notification-script`
+* `sentinel client-reconfig-script`
 
 
 [Sobre `redis.conf`](https://redis.io/topics/config)
