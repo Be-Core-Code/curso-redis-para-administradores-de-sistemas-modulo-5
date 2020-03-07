@@ -19,8 +19,14 @@ Para garantizar la alta disponibilidad del cluster es necesario que existan vari
 * Failover:  Si el maestro no está funcionando correctamente, Sentinel inicia un proceso de failover para 
   convertir una de las réplicas en maestro y configurar el resto de réplicas para que utilicen el nuevo maestro.
   También permite avisar a los clientes (nuestra app por ejemplo) de que hay un nuevo maestro.
-* Gestor de configuración: actúa como un "Source of Authority" y permite a los clientes conocder cuál es la dirección del maestro. 
-  También es capaz de notificar a los clientes cuando este ha cambiado.
+
+^^^^^^
+
+#### Sentinel: Responsabilidades
+
+* Gestor de configuración: actúa como un "Source of Authority" y permite a los clientes conocer cuál es la 
+  dirección del maestro. También es capaz de notificar a los clientes cuando este ha cambiado.
+
 ^^^^^^
 
 #### Sentinel

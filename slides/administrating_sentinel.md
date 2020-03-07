@@ -238,9 +238,9 @@ sentinel client-reconfig-script cursoredis /usr/local/curso-redis-para-administr
   * `master-name` 
   * `role` que es `leader` o `observer`
   * `state` Actualmente es siempre `failover`
-  * `from-ip` Dirección IP del maestro antes del failover
+  * `from-ip` IP del maestro antes del failover
   * `from-port` Puerto del maestro antes del failover
-  * `to-ip` Dirección IP del maestro después del failover
+  * `to-ip` IP del maestro después del failover
   * `to-port`Puerto del maestro después del failover
 
 ^^^^^^
